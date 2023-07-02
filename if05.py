@@ -16,4 +16,4 @@ def main(a,b,c):
     if c<0:
         count+=1
     return count
-print(main(-1,5,4))
+print(main(1,-5,-4))
